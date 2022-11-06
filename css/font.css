@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'regular';
+    src: url(../font/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'semibold';
+    src: url(../font/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'black';
+    src: url(../font/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: 'bold';
+    src: url(../font/TrebuchetMS-Bold.ttf);
+}
+@font-face {
+    font-family: 'bolditalic';
+    src: url(../font/Trebuchet-BoldItalic.ttf);
+}
